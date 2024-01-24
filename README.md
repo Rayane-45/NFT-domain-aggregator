@@ -33,4 +33,5 @@ Pay with Metamask or with your credit card 💳
 
 Try it now: https://e2vh6kl.web.app
 
-Also check the 'Table' version of this project + the backend : https://github.com/clementroure/nft_domains_aggregator_prototype
+Also check the 'Table' version of this project + the backend : https://github.com/Rayane-45/NFT-domain-aggregator
+
